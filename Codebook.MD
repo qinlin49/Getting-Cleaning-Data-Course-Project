@@ -38,6 +38,7 @@ y_train.txt
 subject_test.txt
 x_test.txt
 y_test.txt
+
 Assign column names and merge to create one data set.
 
 Section 2. Extract only the measurements on the mean and standard deviation for each measurement.
